@@ -1,12 +1,23 @@
-<div align="center">
-<h1>jellyfin hbo</h1>
-<h3>Looks, Feels and Smells like hbo max</h3>
-<h3>hbo max Theme for Jellyfin</h3>
-</div>
-<br>
-<h3>its not super good but it works and looks kinda good in my opinion </h3>
-<h2>Usage:</h2>
-<h3> To use it, got to Setting ==> Dashboard ==> General and scroll down to custom css and paste the following line</h3>
+# Jellyfin HBO MAX style
+### _Vibe with Jellyfin looking like HBO MAX_
+A fork of the "Jellyflix" and "Jellyfin HBO themes" for Jellyfin
 
-@import url("https://cdn.jsdelivr.net/gh/itschalee/hbomax-jellyfin@hbo/default.css");
-<img src="/img/Ska%CC%88rmavbild%202023-04-28%20kl.%2009.18.06.png" alt="Alt text" title="Optional title">
+<br>
+
+## Known issues:
+- [ ] Looking at media details on mobile has wonky buttons and title
+      
+If you find any issues, please report them or pull request, I will answer. <br>
+
+<br>
+
+## Usage:
+### Release is work in progress. To apply for now:
+1. On Github, copy all text from "[default.css](default.css)"
+2. On Jellyfin, Go to Setting > Dashboard > General, and scroll down to "custom css"
+3. Paste the text from "default.css" to the "custom css" textbox
+
+<br>
+
+## Images:
+To be uploaded.
